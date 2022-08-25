@@ -17,6 +17,8 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/guia-de-prepara%C3%A7%C3%A3o-para-o-exame-microsoft-pl-300-bi-jos%C3%A9-da-silva/](https://www.linkedin.com/pulse/guia-de-prepara%C3%A7%C3%A3o-para-o-exame-microsoft-pl-300-bi-jos%C3%A9-da-silva/)
 
+- 💜</g-emoji> Entusiast about Events, Meetups, Workshops and Bootcamps (don't hesitate to invite me haha)
+
 - 📫 How to reach me **andersonjose_silva@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andersonjsilva/](https://www.linkedin.com/in/andersonjsilva/)
