@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anderson Jose da Silva :computer: </h1>
+<h1 align="center">:bar_chart: Hi 👋, I'm Anderson Jose da Silva :computer: </h1>
 <h3 align="center">Um entusiasta da área de Dados e Analitics</h3>
 
 
