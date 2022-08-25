@@ -15,7 +15,9 @@
 
 - 🌱 I’m currently learning **Pytho, SQL, Azure**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/pulse/guia-de-prepara%C3%A7%C3%A3o-para-o-exame-microsoft-pl-300-bi-jos%C3%A9-da-silva/](https://www.linkedin.com/pulse/guia-de-prepara%C3%A7%C3%A3o-para-o-exame-microsoft-pl-300-bi-jos%C3%A9-da-silva/)
+- <p dir="auto"><a href="https://lnkd.in/dVaJv6he" rel="nofollow"><img src="https://camo.githubusercontent.com/d69b8795dab3db2ca917e43608becf7172e280ca1f472ad7ac0f23b33b595989/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d53756a6569746f50726f6772616d61646f722e636f6d267374796c653d666f722d7468652d62616467652675726c3d68747470733a2f2f73756a6569746f70726f6772616d61646f722e636f6d2f" alt="Blog" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;url=(https://lnkd.in/dVaJv6he)/" style="max-width: 100%;"></a>
+
+- 📝 I regularly write articles on [![Blog]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://lnkd.in/dVaJv6he
 
 - 💜</g-emoji> Entusiast about Events, Meetups, Workshops and Bootcamps (don't hesitate to invite me haha)
 
