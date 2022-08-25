@@ -15,10 +15,7 @@
 
 - 🌱 I’m currently learning **Pytho, SQL, Azure**
 
-<p dir="auto"><a href="https://www.linkedin.com/in/andersonjsilva/" rel="nofollow"><img src="https://camo.githubusercontent.com/d020fea33c35915af271c6fc9ad479422fac4b9f57d39c8a3dea992ddd369194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4564756172646f4d4c6f7065732d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6564756172646f2d6d6f72656e692d6c6f7065732d3562323731323231342f" alt="Linkedin: Anderson Silva" data-canonical-src="https://img.shields.io/badge/-Anderson Silva-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/andersonjsilva/" style="max-width: 100%;"></a>
-  
-- 📝 I regularly write articles on https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://lnkd.in/dVaJv6he
-
+- 📝 I regularly write articles on [![Anderson SIlva](https://img.shields.io/badge/AndersonJSilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/dVaJv6he)
 - 💜</g-emoji> Entusiast about Events, Meetups, Workshops and Bootcamps (don't hesitate to invite me haha)
 
 - Minhas Skills </h3>
